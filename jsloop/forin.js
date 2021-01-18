@@ -7,7 +7,8 @@ let obj={
 
     for(x in obj){
     console.log(x ,":",obj[x])
+    }
 //     // console.log(x); // this is only showing the property name not property value.
-// }
 
-// for in is used for the iteration purpose in OBJECT
+
+// for in is used for the iteration purpose in OBJECT..
